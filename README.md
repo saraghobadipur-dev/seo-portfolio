@@ -16,6 +16,8 @@ Hi, I'm Sara, a Computer Engineering student with practical experience in SEO an
 - Yoast SEO
 
 ## SEO Case Studies
+- [Art-o-Tahrir SEO Case Study](case-studies/artotahrir.md)
+- [Poorasa SEO Case Study](case-studies/poorasa.md)
 
 ### Art-o-Tahrir
 E-commerce website in stationery and art supplies.
