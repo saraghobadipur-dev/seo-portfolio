@@ -37,6 +37,16 @@ I analyzed search queries and website pages to identify opportunities for improv
 - WordPress
 - WooCommerce
 - Yoast SEO
+## Results
+
+Google Search Console data during the project period:
+
+- 578 total clicks
+- 10.1K total impressions
+- 5.7% average CTR
+- 8.9 average position
+
+These metrics were monitored to evaluate organic search performance and identify SEO opportunities.
 
 ## Note
 
