@@ -1,6 +1,8 @@
 # SEO Portfolio
 
 Hi, I'm Sara, a Computer Engineering student with practical experience in SEO and e-commerce content management.
+- GitHub: https://github.com/saraghobadipur-dev
+- Email: esar9630@gmail.com
 
 ## Skills
 
